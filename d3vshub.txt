@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 123456789123213123213fixedxzcxsadsadsadsazc
+=======
+123456789123213123213fixed
+>>>>>>> 402e8d659e0cc9f187bccc39f7dcb941940beb1c
